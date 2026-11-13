@@ -1,0 +1,14 @@
+{
+  "name": "zafeed/laravel-last-good-quote",
+  "description": "Laravel example for a quote card with a bounded stale fallback",
+  "type": "project",
+  "require": {
+    "php": "^8.3",
+    "laravel/framework": "^13.0"
+  },
+  "config": {
+    "platform": {
+      "php": "8.3.0"
+    }
+  }
+}
