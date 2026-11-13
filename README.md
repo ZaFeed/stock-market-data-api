@@ -32,4 +32,4 @@ For authenticated calls, set `ZAFEED_HTTP_BASE_URL` to your assigned HTTPS origi
 | Import HKEX ticker codes without dropping leading zeros | [HKEX symbol lookup](https://github.com/ZaFeed/hkex-stock-market-api) |
 | Group Tokyo-listed daily candles by the correct local date | [Tokyo stock daily candles](https://github.com/ZaFeed/japan-stock-market-api) |
 
-Consult the [REST quickstart](https://www.zafeed.com/docs-guide.html) for authentication, [WebSocket docs](https://www.zafeed.com/docs-ws.html) for subscriptions, and the [trading calendar](https://www.zafeed.com/calendar.html) for exchange sessions. Questions: [support@zafeed.net](mailto:support@zafeed.net).
+Consult the [REST quickstart](https://www.zafeed.com/docs-guide.html) for authentication, [WebSocket docs](https://www.zafeed.com/docs-ws.html) for subscriptions, and the [exchange calendar directory](https://www.zafeed.com/calendar-exchanges.html) for all 69 securities markets in the ZaFeed catalog, including markets not open for purchase. Calendar coverage and quote access are separate. Questions: [support@zafeed.net](mailto:support@zafeed.net).
