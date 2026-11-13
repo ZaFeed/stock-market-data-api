@@ -24,7 +24,11 @@ The public directory returns sample metadata, not prices. Look at `m` for the ma
 
 For authenticated calls, set `ZAFEED_HTTP_BASE_URL` to your assigned HTTPS origin and `ZAFEED_API_KEY` to the Key for your market. Set `ZAFEED_MARKET` and `ZAFEED_SYMBOL` together. Java and cURL print the unfiltered public catalog. The five public catalog commands were tested; authenticated access depends on provisioning.
 
-## 3. Pick the guide that matches your next task
+## 3. Connect ZaFeed from your web framework
+
+The [framework examples](frameworks/) show how to keep a watchlist Key on the server, label Tokyo daily candles, page through a snapshot, route by market, handle a rate limit, and serve a last known quote during an outage. Each runs locally with a fixture and no account setup.
+
+## 4. Pick the guide that matches your next task
 
 | If you need to… | Use this guide |
 | --- | --- |

@@ -1,0 +1,10 @@
+**/.env
+**/.venv/
+**/__pycache__/
+**/node_modules/
+**/target/
+**/bin/
+**/obj/
+**/vendor/
+**/storage/
+frameworks/laravel/bootstrap/cache/
